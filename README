@@ -1,0 +1,6 @@
+I order to run this project, you have to download the swt package for your platform from 
+http://www.eclipse.org/swt/
+For Mac OS X (64bit) the recent version is
+http://download.eclipse.org/eclipse/downloads/drops/R-3.7.2-201202080800/download.php?dropFile=swt-3.7.2-cocoa-macosx-x86_64.zip
+
+After unpacking, add the swt.jar to the build path of this project.
